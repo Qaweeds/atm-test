@@ -1,0 +1,65 @@
+.wpr30 {
+    width: 30%;
+}
+
+.wpr10 {
+    width: 10%;
+}
+
+.align-c {
+    text-align: center;
+}
+
+.mr10 {
+    margin-right: 10px;
+}
+
+.link-a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.link-a:hover {
+    color: #ffffff;
+}
+
+.logo-title {
+    color: #FFFFFF !important;
+    font-size: 21px;
+}
+
+.container-header {
+    margin-bottom: 35px;
+}
+
+.wait-bar {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 64px;
+    height: 64px;
+}
+
+.add_bg {
+    background-image: url("../icon/load.gif");
+}
+
+.add_link {
+    margin: 0 0 10px !important;
+}
+
+.btn_del {
+    color: #fff;
+    background-color: #FF0000;
+    border-color: #CA0000;
+}
+
+.btn_del:hover {
+    color: #fff;
+    background-color: #A90707;
+    border-color: #C04343;
+}
+
+.wpr7 {
+    width: 5%;
+}
